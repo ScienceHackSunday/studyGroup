@@ -7,20 +7,20 @@ tellMeMore: Tell Me More
 activitiesSubheading: 'And you can, too!'
 activities:
   - title: Skill Sharing
-    description: 'Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.</p>'
+    description: 'Share your favorite coding skills and tools with your friends in a chill no-pressure hack day.</p>'
     icon: fa-comment
   - title: Co-Working
-    description: 'Get together to work on your coding projects, help each other out and share your work.'
+    description: 'Get together to work on your science projects, help each other out and share your work.'
     icon: fa-laptop
   - title: Community Building
-    description: 'Meet new people in your field, organization or community - and find out what we can do when we work together.'
+    description: 'Meet new people in/out of your community - and find out what we can do when we work together.'
     icon: fa-group
 
 events: Events
 eventsSubheading: Our upcoming and recent events
 eventPlaceholder: Nothing yet! Propose an event here.
 suggestEvent: Suggest an Event
-leadership: How to lead a Study Group session
+# leadership: How to lead a Study Group session
 pastEvents: See Our Past Events
 
 notification: Want to be notified of our upcoming events?
@@ -33,11 +33,11 @@ googleCalendar: 'If you use Google calendar, you can add our calendar by pressin
 iCal: 'If you use another calendar app, you can copy and paste <a href="%CALENDAR_ICAL_URL%">this address</a> into any calendar product that supports the iCal format.'
 
 sayHi: Come Say Hi
-contactSubheading: 'We use GitHub to get coding help, talk about events and share files. Join us there!'
+contactSubheading: 'We use GitHub to talk about events and share files. Join us there!'
 contact: Talk To Us
 
 teamHeadline: Who We Are
-teamSubheading: "We're scientists, students and researchers who want to work with you!"
+teamSubheading: "We're scientists, students and coders who want to work with you!"
 interests: Interests
 
 codeOfConduct: Study Group Code of Conduct
