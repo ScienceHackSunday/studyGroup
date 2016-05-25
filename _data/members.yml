@@ -2,13 +2,27 @@
   affiliation: CartoDB
   github: stuartlynn
   interests:
-    - Programming
+    - Coding
     - Astrophysics
     - Side Projects
 - name: Aurelia Moser
-  affiliation: Mozilla Science LAb
+  affiliation: Mozilla Science Lab
   github: auremoser
   interests:
     - Adventures
     - Art
     - Science
+- name: Sally Dankas
+  affiliation: CartoDB
+  github: sdankas
+  interests:
+    - Maps
+    - Magic
+    - Trivia
+- name: Robby Kraft
+  affiliation: Order in Space
+  github: robbykraft
+  interests:
+    - Origami
+    - Space
+    - Coding
