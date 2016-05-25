@@ -1,6 +1,14 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Stuart Lynn
+  affiliation: CartoDB
+  github: stuartlynn
   interests:
     - Programming
-    - Open Science
+    - Astrophysics
+    - Side Projects
+- name: Aurelia Moser
+  affiliation: Mozilla Science LAb
+  github: auremoser
+  interests:
+    - Adventures
+    - Art
+    - Science
