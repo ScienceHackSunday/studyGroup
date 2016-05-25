@@ -19,8 +19,8 @@ language: en
 # None of these things need to be changed - but feel free!
 
 titleBackground: "http://www.ucf.edu/pegasus/files/2014/07/HEADER-robotsvastronauts.jpg"
-headlineSmall: "Welcome To Science Hack Sunday"
-headlineMain: "Let's Hack Together"
+headlineSmall: "Welcome!"
+headlineMain: "Science Hack Sunday"
 
 # Setup Google Calendar
 # Usage:
